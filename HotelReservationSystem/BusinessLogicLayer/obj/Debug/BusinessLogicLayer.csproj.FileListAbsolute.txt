@@ -1,0 +1,28 @@
+C:\Users\admin\documents\visual studio 2010\Projects\HotelReservationSystem\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\admin\documents\visual studio 2010\Projects\HotelReservationSystem\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\HotelReservationSystem\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\admin\documents\visual studio 2010\Projects\HotelReservationSystem\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\admin\documents\visual studio 2010\Projects\HotelReservationSystem\BusinessLogicLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\documents\visual studio 2010\Projects\HotelReservationSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\admin\documents\visual studio 2010\Projects\HotelReservationSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+J:\HotelReservationSystem\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+J:\HotelReservationSystem\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+J:\HotelReservationSystem\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+J:\HotelReservationSystem\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+J:\HotelReservationSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+J:\HotelReservationSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+J:\HotelReservationSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\dell\Documents\Visual Studio 2010\Projects\HotelReservationSystem\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\dell\Documents\Visual Studio 2010\Projects\HotelReservationSystem\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\dell\Documents\Visual Studio 2010\Projects\HotelReservationSystem\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\dell\Documents\Visual Studio 2010\Projects\HotelReservationSystem\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\dell\Documents\Visual Studio 2010\Projects\HotelReservationSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2010\Projects\HotelReservationSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\dell\Documents\Visual Studio 2010\Projects\HotelReservationSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Personal\Documents\Visual Studio 2010\Projects\HotelReservationSystem\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Personal\Documents\Visual Studio 2010\Projects\HotelReservationSystem\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Personal\Documents\Visual Studio 2010\Projects\HotelReservationSystem\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Personal\Documents\Visual Studio 2010\Projects\HotelReservationSystem\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Personal\Documents\Visual Studio 2010\Projects\HotelReservationSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Documents\Visual Studio 2010\Projects\HotelReservationSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Personal\Documents\Visual Studio 2010\Projects\HotelReservationSystem\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

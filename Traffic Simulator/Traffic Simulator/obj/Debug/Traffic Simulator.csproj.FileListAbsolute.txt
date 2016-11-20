@@ -1,0 +1,9 @@
+c:\users\personal\documents\visual studio 2012\Projects\Traffic Simulator\Traffic Simulator\bin\Debug\Traffic Simulator.exe.config
+c:\users\personal\documents\visual studio 2012\Projects\Traffic Simulator\Traffic Simulator\bin\Debug\Traffic Simulator.exe
+c:\users\personal\documents\visual studio 2012\Projects\Traffic Simulator\Traffic Simulator\bin\Debug\Traffic Simulator.pdb
+c:\users\personal\documents\visual studio 2012\Projects\Traffic Simulator\Traffic Simulator\obj\Debug\Traffic Simulator.csprojResolveAssemblyReference.cache
+c:\users\personal\documents\visual studio 2012\Projects\Traffic Simulator\Traffic Simulator\obj\Debug\Traffic_Simulator.Form1.resources
+c:\users\personal\documents\visual studio 2012\Projects\Traffic Simulator\Traffic Simulator\obj\Debug\Traffic_Simulator.Properties.Resources.resources
+c:\users\personal\documents\visual studio 2012\Projects\Traffic Simulator\Traffic Simulator\obj\Debug\Traffic Simulator.csproj.GenerateResource.Cache
+c:\users\personal\documents\visual studio 2012\Projects\Traffic Simulator\Traffic Simulator\obj\Debug\Traffic Simulator.exe
+c:\users\personal\documents\visual studio 2012\Projects\Traffic Simulator\Traffic Simulator\obj\Debug\Traffic Simulator.pdb

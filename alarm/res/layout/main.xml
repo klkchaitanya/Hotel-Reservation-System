@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    
+    >
+    
+    <Button
+        android:id="@+id/bnext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="191dp"
+        android:text="EXIT" />
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp"
+        android:background="@android:color/darker_gray"
+        android:text="Set Alarm"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/tv2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/tv1"
+        android:layout_marginTop="16dp"
+        android:background="@android:color/darker_gray"
+        android:text="Delete Alarm"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/tv3"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/tv2"
+        android:layout_marginTop="18dp"
+        android:background="@android:color/darker_gray"
+        android:text="Set Unlock Code"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/tv4"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/tv3"
+        android:layout_marginTop="17dp"
+        android:text="Off the Alarm"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+                android:background="@android:color/darker_gray"
+         />
+
+    <TextView
+        android:id="@+id/tv5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bnext"
+        android:layout_marginTop="40dp"
+        android:text="No Alarm-set"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="35dp" />
+
+    <ToggleButton
+        android:id="@+id/toggleButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/tv5"
+        android:layout_marginRight="18dp"
+        android:text="ToggleButton" 
+        />
+
+</RelativeLayout>
